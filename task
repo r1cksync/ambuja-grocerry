@@ -1,0 +1,4 @@
+i want you to build a next framework web app for me where both backend and forntend are based on nextjs, typescript is the language of choice, and you make all the files and folders by yourself without using command line.
+the webapp should be a clone of popular grocery sites like bigbasket and zepto, but exclusively for employees of ambuja neotia.
+use mongodb for database, aws s3 for file storage, groq for any llm inferences(making a chatbot assistant etc). 
+i have made frontend and backend folders so use them accordingly.
